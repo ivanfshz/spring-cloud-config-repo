@@ -1,0 +1,3 @@
+version: 0.1.0-beta
+shared-property: "I can store shared properties for across components."
+description: "hey! I am a default shared configuration property file. Although, I am loaded from a dedicated github repository, I can be loaded from a db, filesystem, etc."
