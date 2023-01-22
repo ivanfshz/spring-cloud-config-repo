@@ -1,2 +1,2 @@
 simple-shared-property: "Fetched from config server and can be reused between all clients."
-overwrite-shared-property: "I was fetched from config server as a shared property and I can be overwrited in the client side."
+overwrite-shared-property: "I was fetched from config server as a shared property and I can be overwrited in the client side."+
