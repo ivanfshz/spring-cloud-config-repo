@@ -1,1 +1,2 @@
-foo.greeting: "hello from [stage] profile."
+foo.remote: 'Service scope property fetched from the environment repo base on the [stage] profile. Changes will be reflected in real-time as they are pushed into the environment repository.'
+foo.mandatory-property: "Properties can be mandatory on the on the client side. Service will fail to start if it is not present [remote or locally]."

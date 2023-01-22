@@ -1,3 +1,2 @@
-version: 0.1.0-beta
-shared-property: "I can store shared properties for across components."
-description: "hey! I am a default shared configuration property file. Although, I am loaded from a dedicated github repository, I can be loaded from a db, filesystem, etc."
+simple-shared-property: "Fetched from config server and can be reused between all clients."
+overwrite-shared-property: "I was fetched from config server as a shared property and I can be overwrited in the client side."
